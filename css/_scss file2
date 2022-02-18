@@ -1,0 +1,50 @@
+.block2{
+    background-color:#dfdfdf;
+    width:100%;
+    padding:7% 0px;
+
+    .fl{
+        display:flex;
+        justify-content: space-between;
+    
+    .box1{
+        width:47%;
+        background-color:#fff;
+        
+        img{
+            width:100%;
+        }
+        .in-box{
+            padding:30px;
+            text-align:center;
+            p{
+                color:rgb(170, 167, 167);
+                font-weight:400;
+                letter-spacing: 4px;
+                font-size:11px;
+            }
+            hr{
+                margin:10px 0px;
+            }
+            h2{
+                font-weight:300;
+                color:black;
+            }
+            h6{
+                color:rgb(151, 149, 149);
+                font-weight:400;
+                text-align:left;
+                padding:30px 0px;
+                font-size:13px;
+            }
+            button{
+                width:120px;
+                height:38px;
+                background-color:#fff;
+                border:2px solid rgb(216, 213, 213);
+                border-radius: 5px;
+            }
+        }
+    }
+}
+}
